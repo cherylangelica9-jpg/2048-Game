@@ -1,6 +1,7 @@
 Welcome to the 2048 game made by Cheryl Kwok[X-1] from Wardaya Senior highschool.
-After a few hpurs i have finally completed my masterpiece.
-It looks very simple but it is my first time actually making a game!
+After a few hours i have finally completed my masterpiece.
+It looks very simple but it is my first time actually making a game.
+*Warn* : game is only playable by terminal not by run
 
 --------------------------------------- HOW TO PLAY 2048 --------------------------------------------------
 1. Open the terminal of the program.
